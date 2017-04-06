@@ -93,3 +93,5 @@ C:\Users\Ernst Inc\Desktop\Majdi\BotNewVersion\bin\zh-hans\Microsoft.Bot.Builder
 C:\Users\Ernst Inc\Desktop\Majdi\BotNewVersion\obj\Debug\MyBot.csprojResolveAssemblyReference.cache
 C:\Users\Ernst Inc\Desktop\Majdi\BotNewVersion\obj\Debug\Bot Application.dll
 C:\Users\Ernst Inc\Desktop\Majdi\BotNewVersion\obj\Debug\Bot Application.pdb
+C:\Users\saibi\Documents\Visual Studio 2017\Projects\MyBot\MyBot\bin\Microsoft.ProjectOxford.Face.dll
+C:\Users\saibi\Documents\Visual Studio 2017\Projects\MyBot\MyBot\bin\Microsoft.ProjectOxford.Vision.dll
