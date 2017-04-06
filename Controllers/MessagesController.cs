@@ -13,7 +13,6 @@ namespace MyBot
     [BotAuthentication]
     public class MessagesController : ApiController
     {
-        readonly string emotionApiKey = System.Configuration.ConfigurationManager.AppSettings["emotionApiKey"].ToString();
         /// <summary>
         /// POST: api/Messages
         /// Receive a message from a user and reply to it
@@ -36,27 +35,7 @@ namespace MyBot
                     var httpClient = new HttpClient();
                     var photoStream = await httpClient.GetStreamAsync(photoUrl);
 
-                    EmotionServiceClient emotionServiceClient = new EmotionServiceClient(emotionApiKey);
-
-                    try
-                    {
-                        Emotion[] emotionResult = await emotionServiceClient.RecognizeAsync(photoStream);
-                        float happinessScore = emotionResult[0].Scores.Happiness;
-                        float angerScore = emotionResult[0].Scores.Anger;
-                        float surpriseScore = emotionResult[0].Scores.Surprise;
-                        float sadScore = emotionResult[0].Scores.Sadness;
-                        float neutralScore = emotionResult[0].Scores.Neutral;
-
-                        responseMessage = Math.Ceiling(happinessScore * 100) + "% happiness :D !\n\n";
-                        responseMessage += Math.Ceiling(angerScore * 100) + "% angriness >.< !\n\n";
-                        responseMessage += Math.Ceiling(surpriseScore * 100) + "% surprise O.O !\n\n";
-                        responseMessage += Math.Ceiling(sadScore * 100) + "% sadness :( !\n\n";
-                        responseMessage += Math.Ceiling(neutralScore * 100) + "% neutral!";
-                    }
-                    catch (Exception ex)
-                    {
-                        responseMessage = "Sorry, I can't see anything in this picture! Can you send me face picture?";
-                    }
+                    
                 }
 
                 Activity reply = activity.CreateReply(responseMessage);
