@@ -13,10 +13,16 @@ namespace MyBot
 
     public class MicrosoftCognitiveServices
     {
+        // don't forget to add your keys as app settings in the web.config file
         readonly static string emotionAPIKey = System.Configuration.ConfigurationManager.AppSettings["emotionApiKey"].ToString();
         readonly static string faceAPIKey = System.Configuration.ConfigurationManager.AppSettings["faceApiKey"].ToString();
         readonly static string visionAPIKey = System.Configuration.ConfigurationManager.AppSettings["visionApiKey"].ToString();
 
+        /// <summary>
+        /// Returning a description about the emotion founded on the picture
+        /// </summary>
+        /// <param name="photoUrl">Picture url</param>
+        /// <returns>String contains emotions details</returns>
         public async static Task<string> Emotion(string photoUrl)
         {
             EmotionServiceClient emotionServiceClient = new EmotionServiceClient(emotionAPIKey);
@@ -43,12 +49,18 @@ namespace MyBot
             }
             catch (Exception ex)
             {
+                // return error message as response
                 responseMessage = "Sorry, I can't see anything in this picture! Can you send me face picture?";
             }
 
             return responseMessage;
         }
 
+        /// <summary>
+        /// Returning a description about the faces detected on the picture
+        /// </summary>
+        /// <param name="photoUrl">Picture url</param>
+        /// <returns>String contains detected faces description</returns>
         public async static Task<string> Face(string photoUrl)
         {
             // call the Face API
@@ -102,12 +114,18 @@ namespace MyBot
             }
             catch(Exception ex)
             {
+                // return error message as response
                 return "Error while detecting faces!";
             }
 
             return responseMessage;
         }
 
+        /// <summary>
+        /// Returning a description of the picture
+        /// </summary>
+        /// <param name="photoUrl">Picture url</param>
+        /// <returns>String contains description about the given picture</returns>
         public async static Task<string> Vision(string photoUrl)
         {
             // initialize the Vision Service Client
@@ -144,6 +162,7 @@ namespace MyBot
             }
             catch(Exception ex)
             {
+                // return error message as response
                 return "Can't find any thing in this picture!";
             }
 
