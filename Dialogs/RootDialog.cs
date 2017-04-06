@@ -24,8 +24,15 @@ namespace MyBot.Dialogs
         {
             var activity = await result as Activity;
             
-            // ask the user for his name
-            PromptDialog.Text(context, greeting, "Hi there, what's your name ?", "Sorry, I can't understand you!");
+            if(username != null)
+            {
+                PromptDialog.Choice(context, mainMenu, mainMenuOptions, "I can help you with one of this options:", "Sorry, I can't understand you!");
+            }
+            else
+            {
+                // ask the user for his name
+                PromptDialog.Text(context, greeting, "Hi there, what's your name ?", "Sorry, I can't understand you!");
+            }
         }
 
         private async Task greeting(IDialogContext context, IAwaitable<string> result)
