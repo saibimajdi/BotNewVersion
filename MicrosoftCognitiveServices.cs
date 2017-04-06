@@ -136,7 +136,7 @@ namespace MyBot
                 var colors = string.Join(",", result.Color.DominantColors);
 
                 // prepare response message
-                responseMessage += result.Categories.Count() > 0 ? $"Categorie: {result.Categories.FirstOrDefault().Detail}\n\n" : "N/A\n\n"; ;
+                responseMessage += result.Categories.Count() > 0 ? $"Categorie: {result.Categories.FirstOrDefault().Name}\n\n" : "N/A\n\n"; ;
                 responseMessage += $"Is adult content: {result.Adult.IsAdultContent}\n\n";
                 responseMessage += $"Captions: {captions}\n\n";
                 responseMessage += $"Tags: {tags}\n\n";

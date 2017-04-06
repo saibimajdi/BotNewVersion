@@ -47,3 +47,5 @@ c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\obj\Release\MyB
 c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\obj\Release\Bot Application.dll
 c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\obj\Release\Bot Application.pdb
 c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\obj\Release\MyBot.csprojResolveAssemblyReference.cache
+C:\Users\saibi\Documents\Visual Studio 2017\Projects\MyBot\MyBot\bin\Microsoft.ProjectOxford.Face.dll
+C:\Users\saibi\Documents\Visual Studio 2017\Projects\MyBot\MyBot\bin\Microsoft.ProjectOxford.Vision.dll
