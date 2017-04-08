@@ -29,6 +29,9 @@ namespace MyBot.Dialogs
         };
         #endregion
 
+        // the hidden number for guessing number game
+        int hiddenNumber;
+
         public Task StartAsync(IDialogContext context)
         {
             context.Wait(MessageReceivedAsync);
@@ -76,9 +79,27 @@ namespace MyBot.Dialogs
                     }
                 case "Play a game":
                     {
-                        PromptDialog.Attachment(context, visionResumeAfter, "Send me a picture", new List<string> { "image/jpeg", "image/png" }, "Sorry, I can't understand you!");
+                        hiddenNumber = new Random().Next(0, 100);
+                        PromptDialog.Text(context, gameResumeAfter, "I will hide a number (between 0 and 100) and you should guess the hidden number, I'll help you by telling you each time if the guessed number is greater or smaller than the hidden number\n\nLet's start, guess the hidden number (send a number 1, 2, 3...)", "Please send a valid number!");
                         break;
                     }
+            }
+        }
+
+        private async Task gameResumeAfter(IDialogContext context, IAwaitable<string> result)
+        {
+            int number;
+            if(int.TryParse(await result, out number))
+            {
+                if(number == hiddenNumber)
+                {
+                    await context.PostAsync($"Congratulations! The hidden number is {hiddenNumber}!");
+                }
+                else
+                {
+                    var response = number > hiddenNumber ? $"{number} is greater than the hidden number!" : $"{number} is smaller than the hidden number!";
+                    PromptDialog.Text(context, gameResumeAfter, "Send me another number!", "Please send a valid number!");
+                }
             }
         }
 
