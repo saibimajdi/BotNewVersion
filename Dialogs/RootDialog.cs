@@ -98,6 +98,7 @@ namespace MyBot.Dialogs
                 else
                 {
                     var response = number > hiddenNumber ? $"{number} is greater than the hidden number!" : $"{number} is smaller than the hidden number!";
+                    await context.PostAsync(response);
                     PromptDialog.Text(context, gameResumeAfter, "Send me another number!", "Please send a valid number!");
                 }
             }
