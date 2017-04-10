@@ -1,52 +1,3 @@
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Bot Application.dll.config
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Bot Application.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Bot Application.pdb
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Autofac.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Chronic.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Bot.Builder.Autofac.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Bot.Builder.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Bot.Connector.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.ProjectOxford.Common.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.ProjectOxford.Emotion.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Rest.ClientRuntime.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.WindowsAzure.Configuration.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Newtonsoft.Json.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.IdentityModel.Tokens.Jwt.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.Net.Http.Extensions.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.Net.Http.Formatting.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.Net.Http.Primitives.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.Web.Http.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.Web.Http.WebHost.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Autofac.xml
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Bot.Builder.xml
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Bot.Builder.Autofac.xml
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Bot.Connector.xml
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.WindowsAzure.Configuration.xml
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Newtonsoft.Json.xml
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.IdentityModel.Tokens.Jwt.pdb
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.IdentityModel.Tokens.Jwt.xml
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.Net.Http.Extensions.xml
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.Net.Http.Formatting.xml
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.Net.Http.Primitives.xml
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.Web.Http.xml
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.Web.Http.WebHost.xml
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\ar\Microsoft.Bot.Builder.resources.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\cs\Microsoft.Bot.Builder.resources.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\en\Microsoft.Bot.Builder.resources.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\es\Microsoft.Bot.Builder.resources.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\fa\Microsoft.Bot.Builder.resources.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\fr\Microsoft.Bot.Builder.resources.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\ja\Microsoft.Bot.Builder.resources.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\ru\Microsoft.Bot.Builder.resources.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\obj\Debug\MyBot.csproj.App.config
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\obj\Debug\MyBot.csprojResolveAssemblyReference.cache
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\obj\Debug\Bot Application.dll
-c:\users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\obj\Debug\Bot Application.pdb
 C:\Users\Ernst Inc\Desktop\Majdi\BotNewVersion\bin\Bot Application.dll.config
 C:\Users\Ernst Inc\Desktop\Majdi\BotNewVersion\bin\Bot Application.dll
 C:\Users\Ernst Inc\Desktop\Majdi\BotNewVersion\bin\Bot Application.pdb
@@ -93,17 +44,66 @@ C:\Users\Ernst Inc\Desktop\Majdi\BotNewVersion\bin\zh-hans\Microsoft.Bot.Builder
 C:\Users\Ernst Inc\Desktop\Majdi\BotNewVersion\obj\Debug\MyBot.csprojResolveAssemblyReference.cache
 C:\Users\Ernst Inc\Desktop\Majdi\BotNewVersion\obj\Debug\Bot Application.dll
 C:\Users\Ernst Inc\Desktop\Majdi\BotNewVersion\obj\Debug\Bot Application.pdb
-C:\Users\saibi\Documents\Visual Studio 2017\Projects\MyBot\MyBot\bin\Microsoft.ProjectOxford.Face.dll
-C:\Users\saibi\Documents\Visual Studio 2017\Projects\MyBot\MyBot\bin\Microsoft.ProjectOxford.Vision.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Bot Application.dll.config
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Bot Application.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Bot Application.pdb
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Autofac.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Chronic.dll
 C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.AspNet.SignalR.Core.dll
 C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
 C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Owin.dll
 C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Owin.Host.SystemWeb.dll
 C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Owin.Security.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.ProjectOxford.Common.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.ProjectOxford.Face.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.ProjectOxford.Vision.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Rest.ClientRuntime.dll
 C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Newtonsoft.Json.dll
 C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Owin.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.Net.Http.Extensions.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.Net.Http.Formatting.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.Net.Http.Primitives.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.Web.Http.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.Web.Http.WebHost.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Autofac.xml
 C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.AspNet.SignalR.Core.xml
 C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
 C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Owin.xml
 C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Owin.Host.SystemWeb.xml
 C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Owin.Security.xml
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Newtonsoft.Json.xml
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.Net.Http.Extensions.xml
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.Net.Http.Formatting.xml
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.Net.Http.Primitives.xml
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.Web.Http.xml
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\System.Web.Http.WebHost.xml
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\obj\Debug\MyBot.csproj.App.config
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\obj\Debug\Bot Application.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\obj\Debug\Bot Application.pdb
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\obj\Debug\MyBot.csprojResolveAssemblyReference.cache

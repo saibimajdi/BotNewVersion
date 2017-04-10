@@ -94,6 +94,7 @@ namespace MyBot.Dialogs
                 if(number == hiddenNumber)
                 {
                     await context.PostAsync($"Congratulations! The hidden number is {hiddenNumber}!");
+                    PromptDialog.Choice(context, mainResumeAfter, mainMenuOptions, "How can I help you ?", "Sorry, I can't understand you!");
                 }
                 else
                 {
