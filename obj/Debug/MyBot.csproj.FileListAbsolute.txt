@@ -95,3 +95,15 @@ C:\Users\Ernst Inc\Desktop\Majdi\BotNewVersion\obj\Debug\Bot Application.dll
 C:\Users\Ernst Inc\Desktop\Majdi\BotNewVersion\obj\Debug\Bot Application.pdb
 C:\Users\saibi\Documents\Visual Studio 2017\Projects\MyBot\MyBot\bin\Microsoft.ProjectOxford.Face.dll
 C:\Users\saibi\Documents\Visual Studio 2017\Projects\MyBot\MyBot\bin\Microsoft.ProjectOxford.Vision.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Owin.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Owin.Security.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Owin.dll
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Owin.xml
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\saibi\documents\visual studio 2017\Projects\MyBot\MyBot\bin\Microsoft.Owin.Security.xml
