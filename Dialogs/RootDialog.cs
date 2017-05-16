@@ -57,10 +57,12 @@ namespace MyBot.Dialogs
         private async Task greetingResumeAfter(IDialogContext context, IAwaitable<string> result)
         {
             username = await result;
+            
+            // Cortana features
+                            
+            //await context.PostAsync($"Nice to meet you {username}!");
 
-            await context.PostAsync($"Nice to meet you {username}!");
-
-            PromptDialog.Choice(context, mainResumeAfter, mainMenuOptions, "How can I help you ?", "Sorry, I can't understand you!");
+            PromptDialog.Choice(context, mainResumeAfter, mainMenuOptions, $"Nice to meet you {username}. How can I help you ?", "Sorry, I can't understand you!");
         }
 
         private async Task mainResumeAfter(IDialogContext context, IAwaitable<string> result)
